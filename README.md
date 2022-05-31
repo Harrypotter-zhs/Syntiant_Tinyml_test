@@ -1,6 +1,5 @@
 ## Funpack第二季第一期：Syntiant TinyML Board活动
 
-[TOC]
 
 **活动主页：https://www.eetree.cn/page/digikey-funpack**
 
