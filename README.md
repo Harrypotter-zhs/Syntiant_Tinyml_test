@@ -11,7 +11,7 @@
 
 有幸参加硬禾学堂和得捷电子举办的这一期的活动，了解深度学习相关的知识和arduino的使用
 
-## 0、开发板介绍-**Syntiant TinyML Board**
+## 0、开发板介绍-Syntiant TinyML Board
 
 
 
