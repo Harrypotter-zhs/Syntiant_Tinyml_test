@@ -1,11 +1,10 @@
-## Funpack第二季第一期：Syntiant TinyML Board活动
+# Funpack第二季第一期：Syntiant TinyML Board活动
 
 [TOC]
 
 **活动主页：https://www.eetree.cn/page/digikey-funpack**
 
 有幸参加**硬禾学堂**和**得捷电子**举办的这一期的活动，了解深度学习相关的知识和arduino的使用
-=======
 
 **活动主页：https://www.eetree.cn/page/digikey-funpack**
 
