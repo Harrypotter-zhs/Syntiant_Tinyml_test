@@ -6,10 +6,6 @@
 
 有幸参加**硬禾学堂**和**得捷电子**举办的这一期的活动，了解深度学习相关的知识和arduino的使用
 
-**活动主页：https://www.eetree.cn/page/digikey-funpack**
-
-有幸参加硬禾学堂和得捷电子举办的这一期的活动，了解深度学习相关的知识和arduino的使用
-
 ## 0、开发板介绍-Syntiant TinyML Board
 
 
@@ -241,7 +237,7 @@ Predictions:
 
 将model-parameters文件夹的内容替换已经构建arduino工程:
 
-firmware-syntiant-tinyml工程的src文件下的model-parameters需要将sp_blocks.h model_metadata.h和model_variables.h文件放入自定义固件构建目录的src/model-parameters 文件夹中）
+firmware-syntiant-tinyml工程的src文件下的model-parameters需要将sp_blocks.h、model_metadata.h和model_variables.h文件放入自定义固件构建目录的src/model-parameters 文件夹中）
 
 ![image-20220530110215809-16538804746653](document/picrture/image-20220530110215809-16538804746653.png)
 
